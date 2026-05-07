@@ -10,6 +10,7 @@ release artifacts.
 ## Pages
 
 - Fartownik privacy policy: `fartownik/privacy.html`
+- Fartownik support page: `fartownik/support.html`
 
 ## GitHub Pages
 
@@ -18,6 +19,7 @@ Recommended Pages URL after publishing this repository as `sloik/app-policies`:
 ```text
 https://sloik.github.io/app-policies/
 https://sloik.github.io/app-policies/fartownik/privacy.html
+https://sloik.github.io/app-policies/fartownik/support.html
 ```
 
 Enable GitHub Pages from the repository settings using the `main` branch and

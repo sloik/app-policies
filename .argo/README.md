@@ -16,6 +16,7 @@ pages. This repo is separate from private app source repositories.
 ## Current Pages
 
 - `fartownik/privacy.html` — Fartownik Privacy Policy.
+- `fartownik/support.html` — Fartownik Support URL page.
 
 ## Expected Public URLs
 
@@ -23,3 +24,4 @@ If published as `sloik/app-policies` with GitHub Pages:
 
 - `https://sloik.github.io/app-policies/`
 - `https://sloik.github.io/app-policies/fartownik/privacy.html`
+- `https://sloik.github.io/app-policies/fartownik/support.html`
